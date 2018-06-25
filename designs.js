@@ -23,10 +23,10 @@ function makeGrid() {
   for (y = 0; y < gridWidth; y++) {
   rows.append('<td></td>');
   }
-  cell = platform.find('td');
+  cells = platform.find('td');
   
   //Change color of td when clicked
-  cell.click(function() {
+  cells.click(function() {
     //color input
     console.log("changeColor is running!");
     var color; color =$("#colorPicker").val();
