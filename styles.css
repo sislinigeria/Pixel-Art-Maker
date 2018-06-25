@@ -41,7 +41,7 @@ input[type=number] {
     width: 6em;
 }
 
-myFooter {
+.myFooter {
     background-color: darkorange;
     font-size: 15px;
     margin: 8px, 2px, 2px, 8px;
