@@ -1,11 +1,13 @@
 body {
     text-align: center;
+    background-color: antiquewhite;
 }
 
 h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    color: darkblue;
 }
 
 h2 {
@@ -37,4 +39,10 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+
+myFooter {
+    background-color: darkorange;
+    font-size: 15px;
+    margin: 8px, 2px, 2px, 8px;
 }
