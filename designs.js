@@ -10,7 +10,7 @@ function makeGrid() {
   var platform, cells, rows, gridHeight, gridWidth, submitQuery;
   
   //declaring the jQuery
-  platform =$('#pixel_canvas');
+  platform =$('#pixelCanvas');
   gridHeight =$('#input_height').val();
   gridWidth =$('#input_width').val();
   
