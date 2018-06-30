@@ -1,12 +1,9 @@
-// Select color input
-// Select size input
-
 // When size is submitted by the user, call makeGrid()
 
 function makeGrid() {
 	console.log("makeGrid is running!")
 	
-	// Select size input
+// Select size input
 	
 	var canvas, cell, gridHeight, gridWidth, rows;
 	
@@ -28,9 +25,9 @@ function makeGrid() {
 	
 	cell = canvas.find('td');
 	
-	// When td is clicked by the user, change color of td
+// When td is clicked by the user, change color of td
 	cell.click(function() {
-		// Select color input
+// Select color input
 		console.log("changeColor is running!");
 		var color;
 		color = $("#colorPicker").val();
