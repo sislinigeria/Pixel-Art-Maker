@@ -4,6 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Link](#link)
 
 ## Instructions
 
@@ -13,7 +14,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This project show case my understanding of JavaScript and using it to draw a canvas of grid lines inside a HTML DOM. The HTML was provided for us and i coded the `design.js` file and also style with CSS. The Work is still ongoing and you can use the repo and a guide or contribute to it.
 
 ## Link
 
